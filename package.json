@@ -1,0 +1,21 @@
+{
+  "name": "com.spyro.utility.object_pooler",
+  "version": "1.0.0",
+  "displayName": "Object Manager",
+  "description": "A more performant version of instanciate where it pools a set amount of gameObjects and uses those to instanciate. Saves memory and garbage collection times.",
+  "unity": "2020.1",
+  "unityRelease": "0b5",
+  "keywords": [
+    "better instanciate method",
+    "pooling",
+    "object"
+  ],
+  "author": {
+    "name": "Spyro"
+  },
+  "testables": [
+    "com.spyro.utility.object_pooler"
+  ],
+  "type": "Optimisation",
+  "hideInEditor": false
+}
